@@ -16,4 +16,4 @@
 * (Markdown Notes) Matteo Courthoud, University of Zürich, 2021: [BLP Demand Estimation](https://matteocourthoud.github.io/course/empirical-io/02_demand_estimation/)
 * (PDF Notes) Frank Pinter,US Federal Trade Commission, 2021: [Demand Estimation Notes](https://www.frankpinter.com/notes/Demand_Estimation_Notes.pdf)
 * (Slides) Paolo Zacchia, Charles University: [Demand Estimation](https://www.paolozacchia.com/wp-content/uploads/2024/02/Lecture-14.pdf)
-* (Slides) Paolo Zacchia, Charles University: [Generalized Method of Moments](https://www.paolozacchia.com/wp-content/uploads/2022/01/Lecture-12.pdf)
+
