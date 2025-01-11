@@ -1,5 +1,7 @@
 # Useful Links for Each Chapter
 
+>  Links marked with a star (※) are, in my view, particularly well-explained and highly recommended.
+
 ## Chapter 2: Consumer Demand
 
 ### 2.2 Demand systems in product space
@@ -14,7 +16,7 @@
 #### 2.3.7 Estimation
 
 * (Markdown Notes) Matteo Courthoud, University of Zürich, 2021: [BLP Demand Estimation](https://matteocourthoud.github.io/course/empirical-io/02_demand_estimation/); [Single Agent Dynamics](https://matteocourthoud.github.io/course/empirical-io/07_dynamics_singleagent/)
-* (PDF Notes) Frank Pinter,US Federal Trade Commission, 2021: [Demand Estimation Notes](https://www.frankpinter.com/notes/Demand_Estimation_Notes.pdf)
+* (PDF Notes) Frank Pinter,US Federal Trade Commission, 2021: [Demand Estimation Notes](https://www.frankpinter.com/notes/Demand_Estimation_Notes.pdf) (※)
 * (Slides) Paolo Zacchia, Charles University: [Demand Estimation](https://www.paolozacchia.com/wp-content/uploads/2024/02/Lecture-14.pdf)
 
 ## Chapter 3: Production Function Estimation
