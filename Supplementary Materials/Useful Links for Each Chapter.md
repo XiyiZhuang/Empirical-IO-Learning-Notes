@@ -14,4 +14,4 @@
 #### 2.3.7 Estimation
 
 * (Markdown Notes) Matteo Courthoud, University of Zürich, 2021: [BLP Demand Estimation](https://matteocourthoud.github.io/course/empirical-io/02_demand_estimation/)
-
+* (PDF Notes) Frank Pinter,US Federal Trade Commission, 2021: [Demand Estimation Notes](https://www.frankpinter.com/notes/Demand_Estimation_Notes.pdf)
