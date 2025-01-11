@@ -4,6 +4,8 @@
 
 ## Chapter 2: Consumer Demand
 
+* (Course Materials) Three-day workshop taught by Jeff Gortmaker and Ariel Pakes: [Mixtape Session: Demand Estimation](https://github.com/Mixtape-Sessions/Demand-Estimation?tab=readme-ov-file)
+
 ### 2.2 Demand systems in product space
 
 *  (Slides) Jonathan Levin, Standford University, 2009: [Differentiated Products Demand Systems (A)](https://web.stanford.edu/~jdlevin/Econ%20257/Demand%20Estimation%20Slides%20A.pdf)
