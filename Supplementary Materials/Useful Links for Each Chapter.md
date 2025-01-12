@@ -22,7 +22,7 @@
 
 * (Slides) Paolo Zacchia, Charles University: [Demand Estimation](https://www.paolozacchia.com/wp-content/uploads/2024/02/Lecture-14.pdf)
 
-### Coding Example
+### Coding Examples
 
 * (Python) [Estimating the Demand for Cereal Market](https://github.com/Mixtape-Sessions/Demand-Estimation/tree/main/Exercises)
   
