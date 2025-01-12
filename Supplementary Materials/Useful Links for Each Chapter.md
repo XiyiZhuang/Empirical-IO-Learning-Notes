@@ -24,7 +24,7 @@
 
 ### Coding Example
 
-* (Python) [Estimating the Demand for Cereal Market](https://github.com/Mixtape-Sessions/Demand-Estimation/tree/main/Exercises/Exercise-1)
+* (Python) [Estimating the Demand for Cereal Market](https://github.com/Mixtape-Sessions/Demand-Estimation/tree/main/Exercises)
   
 ## Chapter 3: Production Function Estimation
 
