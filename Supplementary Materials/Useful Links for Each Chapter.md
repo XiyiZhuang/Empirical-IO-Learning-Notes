@@ -26,5 +26,5 @@
 
 * (Python) [Estimating the Demand for Cereal Market](https://github.com/Mixtape-Sessions/Demand-Estimation/tree/main/Exercises)
   
-## Chapter 3: Production Function Estimation
+## Chapter 3: Production Functions
 
