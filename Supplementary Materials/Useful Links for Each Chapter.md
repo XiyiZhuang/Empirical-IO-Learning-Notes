@@ -25,6 +25,11 @@
 ### Coding Examples
 
 * (Python) [Estimating the Demand for Cereal Market](https://github.com/Mixtape-Sessions/Demand-Estimation/tree/main/Exercises)
+
+### Others
+
+* (NBER Working Paper) Berry and Haile, 2021: [Foundations of Demand Estimation](https://www.nber.org/system/files/working_papers/w29305/w29305.pdf) ;  
+   Berry's presentation for this paper: [Foundations of Demand Estimation in IO](https://www.youtube.com/watch?v=kWqBXWDfr5M)
   
 ## Chapter 3: Production Functions
 
