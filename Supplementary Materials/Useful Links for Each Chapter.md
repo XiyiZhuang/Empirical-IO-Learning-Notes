@@ -4,7 +4,7 @@
 
 ## Chapter 2: Consumer Demand
 
-* (Course Materials) Three-day workshop taught by Jeff Gortmaker and Ariel Pakes, 2024: [Mixtape Session: Demand Estimation](https://github.com/Mixtape-Sessions/Demand-Estimation?tab=readme-ov-file) (※※※)
+* (Course Materials) Jeff Gortmaker and Ariel Pakes, Harvard University, 2024: [Mixtape Session: Demand Estimation](https://github.com/Mixtape-Sessions/Demand-Estimation?tab=readme-ov-file) (※※※)
 
 ### 2.2 Demand systems in product space
 
