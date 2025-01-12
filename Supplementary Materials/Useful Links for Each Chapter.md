@@ -16,13 +16,15 @@
 
 *  (Slides) Holger Sieg, University of Pennsylvania: [Discrete Choice Models and the Demand for Differentiated Product](https://www.sas.upenn.edu/~holgers/slides/e8840/slides_blp.pdf)  (※)
 
-#### 2.3.7 Estimation
-
 * (Markdown Notes) Matteo Courthoud, University of Zürich, 2021: [BLP Demand Estimation](https://matteocourthoud.github.io/course/empirical-io/02_demand_estimation/); [Single Agent Dynamics](https://matteocourthoud.github.io/course/empirical-io/07_dynamics_singleagent/)
   
 * (PDF Notes) Frank Pinter,US Federal Trade Commission, 2021: [Demand Estimation Notes](https://www.frankpinter.com/notes/Demand_Estimation_Notes.pdf)  (※※※)
 
 * (Slides) Paolo Zacchia, Charles University: [Demand Estimation](https://www.paolozacchia.com/wp-content/uploads/2024/02/Lecture-14.pdf)
 
+### Coding Example
+
+* (Python) [Estimating the Demand for Cereal Market](https://github.com/Mixtape-Sessions/Demand-Estimation/tree/main/Exercises/Exercise-1)
+  
 ## Chapter 3: Production Function Estimation
 
