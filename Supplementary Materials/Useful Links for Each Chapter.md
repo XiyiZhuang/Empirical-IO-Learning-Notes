@@ -35,3 +35,16 @@
   
 ## Chapter 3: Production Functions
 
+* (Slides) Paul Schrimpf, University of British Columbia, 2019: [Estimating Production Functions](https://faculty.arts.ubc.ca/pschrimpf/567/02-production.pdf)
+
+
+ 
+
+## Other Published Empirical IO Course Repositories
+
+* Paul Schrimpf, University of British Columbia : [Economics 565](https://faculty.arts.ubc.ca/pschrimpf/567/565.html)
+
+* Kohei Kawaguchi, The Hong Kong University of Science and Technology : [ECON5630](https://kohei-kawaguchi.github.io/EmpiricalIO/index.html)
+  
+* Chris Conlon, New York University : [Grad IO](https://chrisconlon.github.io/gradio.html)
+
