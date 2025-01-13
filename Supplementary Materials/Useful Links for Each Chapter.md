@@ -1,6 +1,6 @@
 # Useful Links for Each Chapter
 
->  Links marked with a star (※) are, in my view, particularly well-explained and highly recommended.
+>  Links marked with stars (※) are, in my view, particularly well-explained and highly recommended.
 
 ## Chapter 2: Consumer Demand
 
