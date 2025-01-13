@@ -20,6 +20,8 @@
   
 * (PDF Notes) Frank Pinter,US Federal Trade Commission, 2021: [Demand Estimation Notes](https://www.frankpinter.com/notes/Demand_Estimation_Notes.pdf)  (※)
 
+* (PDF Notes) Matthew Shum, California Institute of Technology, 2016: [Demand in differentiated-product markets](https://www.its.caltech.edu/~mshum/gradio/china1.pdf)
+
 * (Slides) Paolo Zacchia, Charles University: [Demand Estimation](https://www.paolozacchia.com/wp-content/uploads/2024/02/Lecture-14.pdf)
 
 ### Coding Examples
